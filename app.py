@@ -4,7 +4,7 @@ import numpy as np
 import altair as alt
 import math
 from fractions import Fraction
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import *
 from sympy import *
 
 #   Function for the basic math operations
