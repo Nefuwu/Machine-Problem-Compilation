@@ -9,6 +9,10 @@ from sympy import *
 import re
 from array import *
 
+st.set_page_config(
+        page_title="Machine Problem Compilation",
+)
+
 #   Function for the basic math operations
 def calculate_result(num1, operator, num2):
     result = None
